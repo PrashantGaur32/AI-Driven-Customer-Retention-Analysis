@@ -1,6 +1,6 @@
 # 📊 AI-Driven Customer Retention Analysis  
 
-![Power BI Dashboard](Screenshot (7).png)
+![Power BI Dashboard](Screenshot.png)
 
 ## 🚀 Project Overview  
 This project demonstrates **AI-powered analytics integrated with Power BI** to analyze **customer churn and retention patterns**.  
@@ -36,7 +36,7 @@ The goal was to identify **at-risk customers**, predict churn probability, and p
 ## 📸 Dashboard Preview  
 *(Replace this section with your actual image file, e.g., `dashboard.png`)*  
 
-![Dashboard Preview](Screenshot (7).png)  
+![Dashboard Preview](Screenshot.png)  
 
 ## 📌 How to Use  
 - Open the `Power BI` file (`.pbix`) to explore the dashboard  
