@@ -49,6 +49,6 @@ I’m **Prashant Gaur**, a **Data Analyst & AI Enthusiast**, skilled in:
 - Data Analytics, Machine Learning, Business Intelligence  
 - Building **AI + Analytics projects** that create real-world impact  
 
-📫 **Let’s Connect**: [LinkedIn](#) | [GitHub](#) | [Portfolio](#)  
+📫 **Let’s Connect**: [LinkedIn](https://linkedin.com/in/prashant-gaur-99a990251) | [Portfolio](https://prashant-gaur.vercel.app/)  
 
 ---
