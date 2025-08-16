@@ -1,0 +1,46 @@
+{
+  "name": "Modern AI Retention Theme",
+  "dataColors": [
+    "#4C78A8", "#F28E2B", "#E15759", "#76B7B2", "#59A14F", "#EDC949", "#AF7AA1", "#FF9DA7"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#4C78A8",
+  "visualStyles": {
+    "*": {
+      "*": [
+        {
+          "color": { "solid": { "color": "#333333" } },
+          "titleText": { "color": "#222222", "fontSize": 14, "fontFamily": "Segoe UI Semibold" }
+        }
+      ]
+    },
+    "card": {
+      "*": [
+        {
+          "labelColor": { "solid": { "color": "#555555" } },
+          "categoryLabel": { "color": "#888888", "fontSize": 11 },
+          "dataLabel": { "color": "#4C78A8", "fontSize": 20, "fontFamily": "Segoe UI Bold" }
+        }
+      ]
+    },
+    "tableEx": {
+      "*": [
+        {
+          "grid": { "color": "#EAEAEA", "outlineWeight": 1 },
+          "row": { "fontSize": 12, "fontFamily": "Segoe UI" },
+          "header": { "color": "#FFFFFF", "background": "#4C78A8", "fontSize": 13, "fontFamily": "Segoe UI Semibold" }
+        }
+      ]
+    },
+    "slicer": {
+      "*": [
+        {
+          "items": { "color": "#333333", "fontSize": 12 },
+          "header": { "color": "#4C78A8", "fontSize": 13, "fontFamily": "Segoe UI Semibold" }
+        }
+      ]
+    }
+  }
+}
+

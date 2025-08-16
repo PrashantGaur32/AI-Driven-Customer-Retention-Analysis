@@ -1,0 +1,4 @@
+Total Customers = COUNTROWS('predictions')
+Churned Customers = CALCULATE(COUNTROWS('predictions'), 'predictions'[Exited] = 1)
+Churn Rate = DIVIDE([Churned Customers], [Total Customers])
+High Risk Customers = CALCULATE(COUNTROWS('predictions'), 'predictions'[risk_segment] = "High")
